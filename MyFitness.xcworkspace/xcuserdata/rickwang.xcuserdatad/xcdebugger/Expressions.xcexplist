@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__46-[CooperationViewController getAllCooperation]_block_invoke:CooperationViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.cooperArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CooperationDetailViewController createTextViewWithContent:Index:]:CooperationDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "textView.contentSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__49-[TrackDetailViewController onQueryHistoryTrack:]_block_invoke.443:TrackDetailViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ShadowCircleButton setShadow]:ShadowCircleButton.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.bounds;">
+            </PersistentString>
+            <PersistentString
+               value = "self.backgroundColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__49-[TrackDetailViewController onQueryHistoryTrack:]_block_invoke.445:TrackDetailViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__47-[RecordViewController getLast7DaysTrackRecord]_block_invoke:RecordViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[NewRecordViewController constructFastestSport]:NewRecordViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "floor(maxSpeed)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TrackDetailViewController viewDidAppear:]:TrackDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "subViewControllers.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RecordViewController constructLastSevenDaysData]:RecordViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_dayArray[i] doubleValue]">
+            </PersistentString>
+            <PersistentString
+               value = "sevenDaysRecord">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewRecordViewController insertRecordData:]:NewRecordViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CooperationViewController tableView:cellForRowAtIndexPath:]:CooperationViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RecordViewController getLastSevenDaysRecord]:RecordViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_last7DayRecords.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BodyDataViewController openAgePickerViewWithAgeString:]:BodyDataViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TrackDetailViewController onQueryHistoryTrack:]:TrackDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.locationArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewRecordViewController constructLongestSport]:NewRecordViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyRecordViewController configLastSevenDaysView]:MyRecordViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_dayArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CounterViewController calculateDistance]:CounterViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_alertIntArray containsObject: numDistance]">
+            </PersistentString>
+            <PersistentString
+               value = "numDistance.integerValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TrackDetailViewController queryHistoryTrack]:TrackDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.transportMode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController BMKLocationManager:didUpdateLocation:orError:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "location.location.coordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RecordViewController constructTimeSpan]:RecordViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CooperationDetailViewController initMainScrollView]:CooperationDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_imageView.frame.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
